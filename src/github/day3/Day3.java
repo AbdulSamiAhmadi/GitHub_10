@@ -27,6 +27,7 @@ public class Day3 {
 		int s1 = 10;
 		int s2 = 50;
 		int s3 = 100;
+		int s5 = 10000;
 		
 		int result = s1 + s2 + s3;
 		
